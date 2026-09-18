@@ -1,0 +1,4 @@
+interface:
+  display_name: "History Story Video Wizard"
+  short_description: "Evidence-gated historical video workflow"
+  default_prompt: "Turn my historical topic and sources into a story-first script and a verified release package, stopping at every required approval gate."
